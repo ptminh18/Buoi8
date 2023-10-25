@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2013\Projects\khongsiemnua\khongsiemnua\bin\Debug\khongsiemnua.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\khongsiemnua\khongsiemnua\obj\Debug\khongsiemnua.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\khongsiemnua\khongsiemnua\obj\Debug\khongsiemnua.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\khongsiemnua\khongsiemnua\obj\Debug\khongsiemnua.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\khongsiemnua\khongsiemnua\obj\Debug\khongsiemnua.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\khongsiemnua\khongsiemnua\bin\Debug\khongsiemnua.exe
+c:\users\administrator\documents\visual studio 2013\Projects\khongsiemnua\khongsiemnua\bin\Debug\khongsiemnua.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\khongsiemnua\khongsiemnua\obj\Debug\khongsiemnua.exe
+c:\users\administrator\documents\visual studio 2013\Projects\khongsiemnua\khongsiemnua\obj\Debug\khongsiemnua.pdb
